@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# About Me
 I am a Ph.D. student at the Computer Science department in University of Liverpool, under the supervision of Dr. Shan Luo and Prof. Danushka Bollegala. Previously, I received my MSc in Big Data and High-Performance Computing at University of Liverpool. My research mainly focuses on robotic perception, especially multimodal perception, and crossmodal translation between vision and tactile sensing.
 
 
@@ -65,14 +65,7 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 # 👩‍🏫 Teaching  
 **University of Liverppol**
 - Teaching Assistant, Computer Vision (2019/2020)
-<!-- - Teaching Assistant, Mobile Computing (2018/2019)
-- Teaching Assistant, App Development (2018/2019, 2019/2020, 2020/2021)
-- Teaching Assistant, Computer Systems (2018/2019)
-- Teaching Assistant, Object-Oriented Programming (2019/2020)
-- Teaching Assistant, Software Engineering (2019/2020, 2020/2021)
-- Teaching Assistant, Applied Artificial Intelligence (masters level) (2020/2021)
-- Teaching Assistant, Machine Learning and Bioinspired Optimisation (masters level) (2020/2021)
-- Teaching Assistant, Data mining and visualization (masters level) (2021/2022) -->
+
 
 <!-- # 📚 Supervision  
 **University of Liverpool**
