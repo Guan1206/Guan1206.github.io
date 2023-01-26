@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Zhou's Homepage"
+title                    : "Guanqun's Homepage"
 description              : ""
-repository               : "Jodiechou/Jodiechou.github.io"
+repository               : "Guan1206/Guan1206.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yi Zhou (Jodie)"
-  avatar           : "images/YiZhou-pic.png"
+  name             : "Guanqun Cao"
+  avatar           : "images/Guan.jpg"
   bio              : "Final Year PhD student, Department of Computer Science, University of Liverpool"
   location         : "Liverpool, UK"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=3BdddIMAAAAJ&hl=en"
-  email            : "y.zhou71@liverpool.ac.uk"
+  googlescholar    : "https://scholar.google.com/citations?user=_VWaWOwAAAAJ&hl=en"
+  email            : "g.cao@liverpool.ac.uk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Jodie_Chou"
+  twitter          : "guanqun_778"
   vine             :
   weibo            :
   xing             :
