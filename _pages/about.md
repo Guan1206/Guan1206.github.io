@@ -21,7 +21,7 @@ I am a Ph.D. student at the Computer Science department in University of Liverpo
 
 
 # 🔥 News
-- *06/10/2022*: &nbsp;🎉🎉 Our paper [Vis2Hap: Vision-based Haptic Rendering by Cross-modal Generation](https://arxiv.org/pdf/2301.06826.pdf) is accepted to Findings of EMNLP 2022. 
+- *17/01/2023*: &nbsp;🎉🎉 Our paper [Vis2Hap: Vision-based Haptic Rendering by Cross-modal Generation](https://arxiv.org/pdf/2301.06826.pdf) is accepted to ICRA 2023. 
 <!-- - *24/02/2022*: &nbsp;🎉🎉 One paper [on evaluating social biases in sense embeddings](https://aclanthology.org/2022.acl-long.135/) is accepted to ACL 2022 main conference.  -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
