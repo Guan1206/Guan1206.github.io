@@ -23,17 +23,24 @@ I am a lecturer in robotics at Bristol Robotics Laboratory, University of the We
 I was a research associate at University of York from 2024 to 2025. I received my PhD degree from University of Liverpool, under the supervision of Dr. Shan Luo and Prof. Danushka Bollegala.
 
 # 🔥 News
-- *22/06/2023*: &nbsp;🎉🎉 Our paper Learn from Incomplete Tactile Data: Tactile Representation Learning with Masked Autoencoders is accepted to IROS 2023.
-- *24/02/2023*: &nbsp;🎉🎉 Our paper TouchRoller: A Rolling Optical Tactile Sensor for Rapid Assessment of Textures for Large Surface Areas is accepted to Sensors.
+- *09/2025*: &nbsp;🎉🎉 Out paper titled “Learn from the Past: Language-conditioned Object Rearrangement with Large Language Models" has been accepted to PRICAI 2025!
+- *08/2025*: &nbsp;🎉🎉 Out paper titled “BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages” was awarded the Best Resource Paper Award at ACL 2025, congratulations to Nedjma and the team!
+- *08/2025*: &nbsp;🎉🎉 Out paper titled “Wireless Tactile Sensor with Embedded Neural Network for Multifunctional Contact Detection” was awarded the Best Application Paper Award at ICAC 2025, congratulations to Zhenyu and the team!
+- *07/2025*: &nbsp;🎉🎉 I will join the Bristol Robotics Laboratory, University of the West of England as a lecturer in robotics.
+- *06/2023*: &nbsp;🎉🎉 Our paper Learn from Incomplete Tactile Data: Tactile Representation Learning with Masked Autoencoders is accepted to IROS 2023.
+- *02/2023*: &nbsp;🎉🎉 Our paper TouchRoller: A Rolling Optical Tactile Sensor for Rapid Assessment of Textures for Large Surface Areas is accepted to Sensors.
 - *17/01/2023*: &nbsp;🎉🎉 Our paper [Vis2Hap: Vision-based Haptic Rendering by Cross-modal Generation](https://arxiv.org/pdf/2301.06826.pdf) is accepted to ICRA 2023. 
 <!-- - *24/02/2022*: &nbsp;🎉🎉 One paper [on evaluating social biases in sense embeddings](https://aclanthology.org/2022.acl-long.135/) is accepted to ACL 2022 main conference.  -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
+Please check [my Google Scholar](https://scholar.google.com/citations?user=_VWaWOwAAAAJ&hl=en) for the latest publications.
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-- **Guanqun Cao**, Yi Zhou, Danushka Bollegala, Shan Luo: [Spatio-temporal Attention Model for Tactile Texture Recognition](https://arxiv.org/pdf/2008.04442.pdf). In IROS 2020.
+<!-- - **Guanqun Cao**, Yi Zhou, Danushka Bollegala, Shan Luo: [Spatio-temporal Attention Model for Tactile Texture Recognition](https://arxiv.org/pdf/2008.04442.pdf). In IROS 2020. -->
+
 <!-- - **Yi Zhou**, Masahiro Kaneko, Danushka Bollegala: [Sense Embeddings are also Biased – Evaluating Social Biases in Static and Contextualised Sense Embeddings](https://aclanthology.org/2022.acl-long.135/). In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022). -->
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
