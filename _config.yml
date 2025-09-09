@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guanqun Cao"
   avatar           : "images/Guan.jpg"
-  bio              : "Final Year PhD student, Department of Computer Science, University of Liverpool"
-  location         : "Liverpool, UK"
+  bio              : "Lecturer, BRL, University of the West of England"
+  location         : "Bristol, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_VWaWOwAAAAJ&hl=en"
-  email            : "g.cao@liverpool.ac.uk"
+  email            : "guanqun.cao@uwe.ac.uk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
