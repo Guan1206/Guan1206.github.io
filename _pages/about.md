@@ -17,8 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I am a Ph.D. student at the Computer Science department in University of Liverpool, under the supervision of Dr. Shan Luo and Prof. Danushka Bollegala. Previously, I received my MSc in Big Data and High-Performance Computing at University of Liverpool. My research mainly focuses on robotic perception, especially multimodal perception, and crossmodal translation between vision and tactile sensing.
+<!-- I am a Ph.D. student at the Computer Science department in University of Liverpool, under the supervision of Dr. Shan Luo and Prof. Danushka Bollegala. Previously, I received my MSc in Big Data and High-Performance Computing at University of Liverpool. My research mainly focuses on robotic perception, especially multimodal perception, and crossmodal translation between vision and tactile sensing. -->
+I am a lecturer in robotics at Bristol Robotics Laboratory, University of the West of England. My research mainly focuses on robotic perception, tactile sensing, and robot tactile intelligence with LLMs.
 
+I was a research associate at University of York from 2024 to 2025. I received my PhD degree from University of Liverpool, under the supervision of Dr. Shan Luo and Prof. Danushka Bollegala.
 
 # 🔥 News
 - *22/06/2023*: &nbsp;🎉🎉 Our paper Learn from Incomplete Tactile Data: Tactile Representation Learning with Masked Autoencoders is accepted to IROS 2023.
