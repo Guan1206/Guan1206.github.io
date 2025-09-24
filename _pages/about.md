@@ -23,6 +23,7 @@ I am a lecturer in robotics at Bristol Robotics Laboratory, University of the We
 I was a research associate at University of York from 2024 to 2025. I received my PhD degree from University of Liverpool, under the supervision of Dr. Shan Luo and Prof. Danushka Bollegala.
 
 # 🔥 News
+- *09/2025*: &nbsp;🎉🎉  I will serve as a Young-career Editor for the Robot Learning from September 2025.
 - *09/2025*: &nbsp;🎉🎉 Our paper titled “Learn from the Past: Language-conditioned Object Rearrangement with Large Language Models" has been accepted to PRICAI 2025!
 - *08/2025*: &nbsp;🎉🎉 Our paper titled “BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages” was awarded the Best Resource Paper Award at ACL 2025, congratulations to Nedjma and the team!
 - *08/2025*: &nbsp;🎉🎉 Our paper titled “Wireless Tactile Sensor with Embedded Neural Network for Multifunctional Contact Detection” was awarded the Best Application Paper Award at ICAC 2025, congratulations to Zhenyu and the team!
