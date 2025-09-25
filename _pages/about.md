@@ -78,7 +78,8 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 # 👩‍🏫 Teaching
 **University of the West of England**  
 - Lecturer, Robotic Control System, Engineering Experimentation, Engineering Practice (2025/2026)
-**University of Liverppol**
+
+**University of Liverpool**
 - Teaching Assistant, Computer Vision (2019/2020)
 
 
@@ -92,5 +93,6 @@ Feel free to drop me an email if you’d like me to give a talk at your event/se
 # 💻 Professional Services
 **Young-Career Editor**
 - Robot Learning
+
 **Reviewer**
 - ICRA, IROS, RAL, T-ASE, TIP
