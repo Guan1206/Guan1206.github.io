@@ -23,6 +23,7 @@ I am a lecturer in robotics at Bristol Robotics Laboratory, University of the We
 I was a research associate at University of York from 2024 to 2025. I received my PhD degree from University of Liverpool, under the supervision of Dr. Shan Luo and Prof. Danushka Bollegala.
 
 # 🔥 News
+- *06/2026*: &nbsp;🎉🎉  PhD position available: [Flexible Robotic Tools](https://www.findaphd.com/phds/project/flexible-robotic-tools/?p196642) at Bristol Robotics Laboratory, UWE.
 - *06/2026*: &nbsp;🎉🎉  I have been awarded the NVIDIA Academic Grant.
 - *11/2025*: &nbsp;🎉🎉  I will serve as a Session Chair for the Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025).
 - *09/2025*: &nbsp;🎉🎉  I have been awarded the UWE New Starter Research Development Scheme.
